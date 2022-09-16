@@ -9,17 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/ari_ahmed_dev" target="blank"><img src="https://img.shields.io/twitter/follow/ari_ahmed_dev?logo=twitter&style=for-the-badge" alt="ari_ahmed_dev" /></a> </p>
 
-- 🔭 I’m currently working on [Birmbenawa](https://github.com/areeahmed/birmbenawa)
+- 🔭 I’m currently working on [studa](https://github.com/areeahmed/studa.git)
 
 - 🌱 I’m currently learning **Flutter / Dart**
 
-- 👨‍💻 All of my projects are available at [https://areeahmed.github.io/ariahmed.com/](https://areeahmed.github.io/ariahmed.com/)
+- 👨‍💻 My Protofilio is available at [https://areeahmed.github.io/ariahmed.com/](https://areeahmed.github.io/ariahmed.com/)
 
 - 💬 Ask me about **Flutter - C++ - C# - Dart**
 
 - 📫 How to reach me **areeahmed622@gmail.com**
 
-- ⚡ Fun fact **I love Learn every thing**
+- ⚡ Fun fact **I love Learning every thing and attending to courses**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
