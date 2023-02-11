@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Clinical Management System](https://github.com/areeahmed/Clinical_Management_System.git)
 
-- 🌱 I’m currently learning **Flutter / Dart**
+- 🌱 I’m currently learning **Java Script / UI Design**
 
 - 👨‍💻 My Protofilio is available at [https://areeahmed.github.io/ariahmed.com/](https://areeahmed.github.io/ariahmed.com/)
 
