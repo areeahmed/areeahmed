@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/ari_ahmed_dev" target="blank"><img src="https://img.shields.io/twitter/follow/ari_ahmed_dev?logo=twitter&style=for-the-badge" alt="ari_ahmed_dev" /></a> </p>
 
-- 🔭 I’m currently working on [studa](https://github.com/areeahmed/studa.git)
+- 🔭 I’m currently working on [Clinical Management System](https://github.com/areeahmed/Clinical_Management_System.git)
 
 - 🌱 I’m currently learning **Flutter / Dart**
 
