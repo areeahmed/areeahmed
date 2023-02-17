@@ -1,5 +1,3 @@
-![GitHub Banner](https://user-images.githubusercontent.com/59537867/188330271-e4e5b2d2-5538-408b-8e45-76f043d6ad36.jpg)
-
 <h1 align="center">Hi 👋, I'm Ari Ahmed Ibraim</h1>
 <h3 align="center">Mobile Application Developer ( Flutter / Dart )</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
