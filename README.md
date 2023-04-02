@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java Script / UI Design**
 
-- 👨‍💻 My Protofilio is available at [https://areeahmed.github.io/ariahmed.com/](https://areeahmed.github.io/ariahmed.com/)
+- 👨‍💻 My Protofilio is available at [areeahmed.netlify.app)
 
 - 💬 Ask me about **Flutter - C++ - C# - Dart**
 
