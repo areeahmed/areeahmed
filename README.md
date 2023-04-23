@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ari Ahmed Ibraim</h1>
 <h3 align="center">Mobile Application Developer ( Flutter / Dart )</h3>
-
-<im![Uploading Default_a_Gigachad_person_wearing_a_black_hoody_with_a_hat_is_1_655acf27-1186-4e67-abad-1b107b48bdba_1.png…]()
-g align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
-
-
+<img alt="Programmer Writing a code with yellow hoody and ArieX logo on his arm" src="ttps://i.ibb.co/D9jGp0v/Default-a-Gigachad-person-wearing-a-black-hoody-with-a-hat-is-1-655acf27-1186-4e67-abad-1b107b48bdba.png">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=areeahmed&label=Profile%20views&color=0e75b6&style=flat" alt="areeahmed" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ari_ahmed_dev" target="blank"><img src="https://img.shields.io/twitter/follow/ari_ahmed_dev?logo=twitter&style=for-the-badge" alt="ari_ahmed_dev" /></a> </p>
