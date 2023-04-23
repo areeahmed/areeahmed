@@ -1,4 +1,4 @@
-<img width="600" alt="Programmer Writing a code with yellow hoody and ArieX logo on his arm" src="ttps://i.ibb.co/D9jGp0v/Default-a-Gigachad-person-wearing-a-black-hoody-with-a-hat-is-1-655acf27-1186-4e67-abad-1b107b48bdba.png">
+<a href="https://ibb.co/JktryDt"><img src="https://i.ibb.co/h892Z39/Default-a-Gigachad-person-wearing-a-black-hoody-with-a-hat-is-0-ff80a166-7cbd-4749-889e-a91a5ab37f34.jpg" alt="Default-a-Gigachad-person-wearing-a-black-hoody-with-a-hat-is-0-ff80a166-7cbd-4749-889e-a91a5ab37f34" border="0" width="1000"></a>
 
 <h1 align="center">Hi 👋, I'm Ari Ahmed Ibraim</h1>
 
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Java Script / UI Design**
 
-- 👨‍💻 My Protofilio is available at (https://areeahmed.netlify.app/)
+- 👨‍💻 My Protofilio is available at (<https://areeahmed.netlify.app/>)
 
 - 💬 Ask me about **Flutter - C++ - C# - Dart**
 
