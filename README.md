@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ari Ahmed Ibraim</h1>
 <h3 align="center">Mobile Application Developer ( Flutter / Dart )</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
+
+<im![Uploading Default_a_Gigachad_person_wearing_a_black_hoody_with_a_hat_is_1_655acf27-1186-4e67-abad-1b107b48bdba_1.png…]()
+g align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=areeahmed&label=Profile%20views&color=0e75b6&style=flat" alt="areeahmed" /> </p>
