@@ -4,8 +4,8 @@
 
 <h3 align="center">Mobile Application Developer ( Flutter / Dart )</h3>
 
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=areeahmed&label=Profile%20views&color=0e75b6&style=flat" alt="areeahmed" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ari_ahmed_dev" target="blank"><img src="https://img.shields.io/twitter/follow/ari_ahmed_dev?logo=twitter&style=for-the-badge" alt="ari_ahmed_dev" /></a> </p>
